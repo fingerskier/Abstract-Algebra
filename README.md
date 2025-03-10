@@ -3,9 +3,6 @@ Explorations of abstract algebra through coding
 
 ## Syllabus
 
-Yes, I can generate study materials for abstract algebra tailored to your interest in programming. Here’s an outline of how we can approach it:
-
-
 ---
 
 1. Groups
